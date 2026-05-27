@@ -1,0 +1,26 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021
+Doanh thu bán hàng và cung cấp dịch vụ,Sales,sales,25659652863824.0,21351265987360.0,16757537132187.0,16822823680023.0,18847758909185.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,-196502323670.0,-221644168033.0,-150268605674.0,-158151142409.0,-133553048040.0
+Doanh thu thuần,Net sales,net_sales,25463150540154.0,21129621819327.0,16607268526513.0,16664672537614.0,18714205861145.0
+Giá vốn hàng bán,Cost of sales,cost_of_sales,-21352367879327.0,-18065660920766.0,-14581337221301.0,-14550681716128.0,-16884083731929.0
+Lợi nhuận gộp,Gross Profit,gross_profit,4110782660827.0,3063960898561.0,2025931305212.0,2113990821486.0,1830122129216.0
+Doanh thu hoạt động tài chính,Financial income,financial_income,1714576407121.0,544051012220.0,571666502678.0,840623635551.0,394870532850.0
+Chi phí tài chính,Financial expenses,financial_expenses,-538441839396.0,-608826839674.0,-901030200655.0,-1128443045178.0,-744443081249.0
+Chi phí lãi vay,Interest expenses,interest_expenses,-230634956227.0,-269291875033.0,-575944738472.0,-716192111956.0,-516390762541.0
+Chi phí bán hàng,Selling expenses,selling_expenses,-501230714277.0,-410091473654.0,-327729790359.0,-348744839303.0,-360858347287.0
+Chi phí quản lý doanh nghiệp,General and admin expenses,general_and_admin_expenses,-672777027693.0,-457243436130.0,-420242788855.0,-408238567370.0,-387450215643.0
+Lãi/(lỗ) từ hoạt động kinh doanh,Operating profit/(loss),operating_profit_loss,4262527880351.0,2156570638630.0,949715700837.0,1088663542925.0,760768346345.0
+Thu nhập khác,Other incomes,other_incomes,9854065565.0,13640263988.0,23590386729.0,40567570130.0,59484543159.0
+Chi phí khác,Other expenses,other_expenses,-10197740363.0,-17291241240.0,-6215893620.0,-8877018432.0,-2247136204.0
+"Thu nhập khác, ròng",Net other income/(expenses),net_other_income_expenses,-343674798.0,-3650977252.0,17374493109.0,31690551698.0,57237406955.0
+Lãi/(lỗ) từ công ty liên doanh,Income from investments in other entities,income_from_investments_in_other_entities,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) trước thuế,Net accounting profit/(loss) before tax,net_accounting_profit_loss_before_tax,4262184205553.0,2152919661378.0,967090193946.0,1120354094623.0,818005753300.0
+Thuế thu nhập doanh nghiệp - hiện thời,Business income tax - current,business_income_tax_current,-825416731342.0,-458018875089.0,-184637766680.0,-140747641889.0,-177074181774.0
+Thuế thu nhập doanh nghiệp - hoãn lại,Business income tax - deferred,business_income_tax_deferred,-19636966853.0,19675060098.0,10217439825.0,-8001521170.0,13857407490.0
+Chi phí thuế thu nhập doanh nghiệp,Corporate income tax expenses,corporate_income_tax_expenses,-845053698195.0,-438343814991.0,-174420326855.0,-148749163059.0,-163216774284.0
+Lãi/(lỗ) thuần sau thuế,Net profit/(loss) after tax,net_profit_loss_after_tax,3417130507358.0,1714575846387.0,792669867091.0,971604931564.0,654788979016.0
+Lợi ích của cổ đông thiểu số,Minority interests,minority_interests,159751004529.0,126341211502.0,47292552505.0,91142019801.0,88921937997.0
+Lợi nhuận của Cổ đông của Công ty mẹ,Attributable to parent company,attributable_to_parent_company,3257379502829.0,1588234634885.0,745377314586.0,880462911763.0,565867041019.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,8921.0,5294.0,2485.0,2935.0,2280.0
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),Gain/(loss) from joint ventures (from 2015),gain_loss_from_joint_ventures_from_2015,149618393769.0,24720477307.0,1120672816.0,19475537739.0,28527328458.0

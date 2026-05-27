@@ -1,0 +1,26 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+Doanh thu bán hàng và cung cấp dịch vụ,Sales,sales,879545373942.0,298034721682.0,122673733246.0,110553230706.0,111236733368.0,422702772553.0,633046316525.0,341837266493.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,0.0,-5086969722.0,0.0,0.0,0.0,0.0,-2094374145.0,0.0
+Doanh thu thuần,Net sales,net_sales,879545373942.0,292947751960.0,122673733246.0,110553230706.0,111236733368.0,422702772553.0,630951942380.0,341837266493.0
+Giá vốn hàng bán,Cost of sales,cost_of_sales,-713847037377.0,-182622548188.0,-84908887499.0,-131203546837.0,-74486716395.0,-364639584547.0,-572383490630.0,-289308906758.0
+Lợi nhuận gộp,Gross Profit,gross_profit,165698336565.0,110325203772.0,37764845747.0,-20650316131.0,36750016973.0,58063188006.0,58568451750.0,52528359735.0
+Doanh thu hoạt động tài chính,Financial income,financial_income,204518270.0,234676289.0,589788794.0,794742065.0,1134191532.0,745705150.0,1293248019.0,643761957.0
+Chi phí tài chính,Financial expenses,financial_expenses,-5657703890.0,-4880071757.0,-9609506260.0,-8900663683.0,-5191108583.0,-7833770664.0,-4408159225.0,-5747881446.0
+Chi phí lãi vay,Interest expenses,interest_expenses,-2882570866.0,-4880071757.0,-9609506260.0,-8900663683.0,-5191108583.0,-7833770664.0,-4408159225.0,-5747881446.0
+Chi phí bán hàng,Selling expenses,selling_expenses,-875207201.0,-911484685.0,-880062189.0,-350150954.0,0.0,0.0,0.0,0.0
+Chi phí quản lý doanh nghiệp,General and admin expenses,general_and_admin_expenses,-38178489008.0,-26762921860.0,-24045318645.0,-25356644826.0,-14044320504.0,-13513751261.0,-11695228170.0,-9357441624.0
+Lãi/(lỗ) từ hoạt động kinh doanh,Operating profit/(loss),operating_profit_loss,121191454736.0,78005401759.0,3819747447.0,-54463033529.0,18648779418.0,37461371231.0,43758312374.0,38066798622.0
+Thu nhập khác,Other incomes,other_incomes,8177892305.0,3328169304.0,1973577559.0,1643382803.0,8563770790.0,4489863971.0,1600335232.0,8241190799.0
+Chi phí khác,Other expenses,other_expenses,-266825351.0,-3201800659.0,-4282776907.0,-5576409865.0,-1200605287.0,-475798306.0,-539188787.0,-19457831.0
+"Thu nhập khác, ròng",Net other income/(expenses),net_other_income_expenses,7911066954.0,126368645.0,-2309199348.0,-3933027062.0,7363165503.0,4014065665.0,1061146445.0,8221732968.0
+Lãi/(lỗ) từ công ty liên doanh,Income from investments in other entities,income_from_investments_in_other_entities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) trước thuế,Net accounting profit/(loss) before tax,net_accounting_profit_loss_before_tax,129102521690.0,78131770404.0,1510548099.0,-58396060591.0,26011944921.0,41475436896.0,44819458819.0,46288531590.0
+Thuế thu nhập doanh nghiệp - hiện thời,Business income tax - current,business_income_tax_current,-25878381972.0,-2500836503.0,0.0,0.0,-3877263332.0,-8406882166.0,-7643403478.0,-9271231221.0
+Thuế thu nhập doanh nghiệp - hoãn lại,Business income tax - deferred,business_income_tax_deferred,-1483933438.0,-1047606396.0,-731461329.0,0.0,0.0,0.0,0.0,0.0
+Chi phí thuế thu nhập doanh nghiệp,Corporate income tax expenses,corporate_income_tax_expenses,-27362315410.0,-3548442899.0,-731461329.0,0.0,-3877263332.0,-8406882166.0,-7643403478.0,-9271231221.0
+Lãi/(lỗ) thuần sau thuế,Net profit/(loss) after tax,net_profit_loss_after_tax,101740206280.0,74583327505.0,779086770.0,-58396060591.0,22134681589.0,33068554730.0,37176055341.0,37017300369.0
+Lợi ích của cổ đông thiểu số,Minority interests,minority_interests,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận của Cổ đông của Công ty mẹ,Attributable to parent company,attributable_to_parent_company,101740206280.0,74583327505.0,779086770.0,-58396060591.0,22134681589.0,33068554730.0,37176055341.0,37017300369.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,2558.0,2131.0,22.0,-1668.0,593.0,915.0,1029.0,1033.0
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,2558.0,2131.0,22.0,-834.0,593.0,915.0,0.0,0.0
+Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),Gain/(loss) from joint ventures (from 2015),gain_loss_from_joint_ventures_from_2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

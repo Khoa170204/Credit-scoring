@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+models/*.pkl
+data/vn_demo/cache/
+data/vnstock/pkl/
+data/vnstock/csv/

@@ -1,0 +1,209 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+TÀI SẢN NGẮN HẠN,CURRENT ASSETS,current_assets,13285836390601.0,8172043402888.0,6597764367356.0,5429789416430.0,2284352633759.0,170846189624.0,142741607928.0,129470008204.0
+Tiền và tương đương tiền,Cash and cash equivalents,cash_and_cash_equivalents,510578822461.0,1093162138811.0,505275910457.0,431936111485.0,21021949342.0,1096281386.0,5106286602.0,12615566091.0
+Tiền,Cash,cash,510578822461.0,943162138811.0,505275910457.0,431936111485.0,684350376.0,96281386.0,106286602.0,315566091.0
+Các khoản tương đương tiền,Cash equivalents,cash_equivalents,0.0,150000000000.0,0.0,0.0,20337598966.0,1000000000.0,5000000000.0,12300000000.0
+Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),Financial assets at fair value through profit or loss (FVTPL),financial_assets_at_fair_value_through_profit_or_loss_fvtpl,2085470807782.0,167084604843.0,298584681685.0,575600703154.0,84093149735.0,23000000000.0,20666827000.0,20997803500.0
+Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp,Provision for diminution,provision_for_diminution,-54118792478.0,-42162233378.0,-44556698543.0,-39586100297.0,0.0,0.0,-7772702985.0,-7772702985.0
+Tổng các khoản phải thu,Accounts receivable,accounts_receivable,339710338782.0,291115303269.0,560827477636.0,250465670684.0,101639488138.0,40493611747.0,7537269496.0,5868371823.0
+Phải thu khách hàng (Trước năm 2016),Trade accounts receivable (Before 2016),trade_accounts_receivable_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trả trước người bán,Prepayments to suppliers,prepayments_to_suppliers,17148648042.0,5398019316.0,2512503804.0,123424423195.0,72958404976.0,38963133600.0,0.0,6263000.0
+Phải thu nội bộ,Intercompany receivables,intercompany_receivables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu về XDCB (Trước năm 2016),Construction contract in progress receivables (Before 2016),construction_contract_in_progress_receivables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu khác,Other receivables,other_receivables,5224279832.0,4619337217.0,6928554633.0,79390492.0,150045714.0,36279114.0,43624850.0,12011387.0
+Dự phòng nợ khó đòi (Trước năm 2016),Provision for doubtful debts (Before 2016),provision_for_doubtful_debts_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Hàng tồn kho, ròng (Trước năm 2016)","Inventories, Net (Before 2016)",inventories_net_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hàng tồn kho (Trước năm 2016),Inventories (Before 2016),inventories_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dự phòng giảm giá HTK (Trước năm 2016),Provision for decline in inventories (Before 2016),provision_for_decline_in_inventories_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản ngắn hạn khác,Other current assets,other_current_assets,10254090742.0,6508113273.0,29064365874.0,28119566879.0,2231692856.0,726444320.0,293323283.0,524635096.0
+Chi phí trả trước ngắn hạn,Short-term prepayments,short_term_prepayments,6660602677.0,4610307968.0,5402291501.0,1939765396.0,958723257.0,372932207.0,10000000.0,488727096.0
+Thuế giá trị gia tăng được khấu trừ,VAT to be claimed,vat_to_be_claimed,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thuế và các khoản khác phải thu Nhà nước,Other taxes receivable,other_taxes_receivable,0.0,0.0,0.0,0.0,0.0,102756184.0,0.0,0.0
+Tài sản ngắn hạn khác,Other current assets,other_current_assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TÀI SẢN DÀI HẠN,LONG-TERM ASSETS,long_term_assets,1853390314304.0,2465208715384.0,848298327765.0,979355431642.0,30873553983.0,16463154507.0,33850368188.0,35260067809.0
+Phải thu dài hạn,Long-term trade receivables,long_term_trade_receivables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu khách hàng dài hạn,Long-term trade receivables,long_term_trade_receivables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu nội bộ dài hạn (Trước năm 2016),Long-term intercompany receivables (Before 2016),long_term_intercompany_receivables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu dài hạn khác (Trước năm 2016),Other long-term receivables (Before 2016),other_long_term_receivables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dự phòng phải thu dài hạn (Trước năm 2016),Provision for doubtful LT receivable (Before 2016),provision_for_doubtful_lt_receivable_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản cố định,Fixed assets,fixed_assets,105801085387.0,96209664181.0,84720317580.0,41705860373.0,19730870099.0,6243198296.0,620061495.0,2108374474.0
+GTCL TSCĐ hữu hình,Tangible fixed assets,tangible_fixed_assets,12306667280.0,11829030347.0,12279282510.0,6642640919.0,6109935527.0,3818049288.0,476032978.0,1061922861.0
+Nguyên giá TSCĐ hữu hình,Historical Cost,historical_cost,28899990147.0,23334856971.0,19518941767.0,11263781519.0,10754059566.0,7203213166.0,5022287802.0,5022287802.0
+Khấu hao lũy kế TSCĐ hữu hình,Accumulated depreciation,accumulated_depreciation,-16593322867.0,-11505826624.0,-7239659257.0,-4621140600.0,-4644124039.0,-3385163878.0,-4546254824.0,-3960364941.0
+GTCL Tài sản thuê tài chính,Finance lease assets,finance_lease_assets,68620067944.0,44713526577.0,19884750722.0,0.0,0.0,0.0,0.0,0.0
+Nguyên giá tài sản thuê tài chính,Historical Cost,historical_cost,89933260600.0,51823316600.0,20991823600.0,0.0,0.0,0.0,0.0,0.0
+Khấu hao lũy kế tài sản thuê tài chính,Accumulated depreciation,accumulated_depreciation,-21313192656.0,-7109790023.0,-1107072878.0,0.0,0.0,0.0,0.0,0.0
+GTCL tài sản cố định vô hình,Intangible fixed assets,intangible_fixed_assets,24874350163.0,39667107257.0,52556284348.0,35063219454.0,13620934572.0,2425149008.0,144028517.0,1046451613.0
+Nguyên giá TSCĐ vô hình,Historical Cost,historical_cost,78603673614.0,77273623614.0,74754292000.0,44737612000.0,19959152000.0,7577212000.0,5105000000.0,4950000000.0
+Khấu khao lũy kế TSCĐ vô hình,Accumulated depreciation,accumulated_depreciation,-53729323451.0,-37606516357.0,-22198007652.0,-9674392546.0,-6338217428.0,-5152062992.0,-4960971483.0,-3903548387.0
+Xây dựng cơ bản dở dang (trước 2015),Construction in progress (before 2015),construction_in_progress_before_2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bất động sản đầu tư,Investment properties,investment_properties,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nguyên giá tài sản đầu tư,Historical Cost,historical_cost,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Khấu hao lũy kế tài sản đầu tư,Accumulated depreciation,accumulated_depreciation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Đầu tư dài hạn,Long-term investments,long_term_investments,1704736219137.0,2328606423400.0,729681708989.0,920608888524.0,0.0,0.0,25000000000.0,25000000000.0
+Đầu tư vào các công ty con,Investments in subsidiaries,investments_in_subsidiaries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Đầu tư vào các công ty liên kết,Investments in associates,investments_in_associates,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Đầu tư dài hạn khác,Other long-term investments,other_long_term_investments,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dự phòng giảm giá đầu tư dài hạn,Provision for long-term investments,provision_for_long_term_investments,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản dài hạn khác,Other long-term assets,other_long_term_assets,42853009780.0,39880627803.0,33896301196.0,17040682745.0,11142683884.0,10219956211.0,8230306693.0,8151693335.0
+Chi phí trả trước dài hạn,Long-term prepayments,long_term_prepayments,6089995957.0,8697526654.0,7166402836.0,3960268810.0,2059257597.0,1416448334.0,405794458.0,1020846391.0
+Tài sản thuế thu nhập hoãn lại,Deferred income tax assets,deferred_income_tax_assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Các tài sản dài hạn khác,Other long-term assets,other_long_term_assets,10056341293.0,10036259104.0,10014583427.0,0.0,0.0,0.0,0.0,0.0
+TỔNG CỘNG TÀI SẢN,TOTAL ASSETS,total_assets,15139226704905.0,10637252118272.0,7446062695121.0,6409144848072.0,2315226187742.0,187309344131.0,176591976116.0,164730076013.0
+NỢ PHẢI TRẢ,LIABILITIES,liabilities,10836896893910.0,6607451933915.0,4140717286256.0,3272783700813.0,1256658460895.0,23222139893.0,14657416289.0,2683233295.0
+Nợ phải trả ngắn hạn,Current liabilities,current_liabilities,9511869492871.0,6589049715018.0,4126428950224.0,3272783520643.0,1255363148949.0,22549563993.0,14657416289.0,2683233295.0
+Vay và nợ thuê tài sản tài chính ngắn hạn,Short-term borrowings,short_term_borrowings,9321821230041.0,6505929479835.0,3643056054047.0,2584842672289.0,1103860000000.0,19205000000.0,12920000000.0,0.0
+Phải trả người bán ngắn hạn,Trade accounts payable,trade_accounts_payable,3980779630.0,1797067584.0,531808131.0,359088528.0,240758699.0,155317080.0,48756249.0,15376925.0
+Người mua trả tiền trước ngắn hạn,Advances from customers,advances_from_customers,0.0,0.0,0.0,160000000.0,105000000.0,0.0,130000000.0,130000000.0
+Thuế và các khoản phải nộp nhà nước,Taxes and other payable to State Budget,taxes_and_other_payable_to_state_budget,34318412305.0,25652481098.0,30277977003.0,16235901025.0,16276099887.0,529860014.0,388631296.0,1315410738.0
+Phải trả người lao động,Payable to employees,payable_to_employees,39201896668.0,18553360015.0,16149415347.0,6651489424.0,6625382468.0,256356841.0,737322407.0,870452823.0
+Chi phí phải trả ngắn hạn,Accrued expenses,accrued_expenses,88396621009.0,24101558414.0,17582968619.0,7804079088.0,3509111042.0,1664338143.0,97468071.0,109394516.0
+Phải trả nội bộ ngắn hạn,Intercompany payables,intercompany_payables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả về xây dựng cơ bản (Trước năm 2016),Construction contract in progress payables,construction_contract_in_progress_payables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Các khoản phải trả, phải nộp khác ngắn hạn",Other payables,other_payables,691897619.0,4826335385.0,415271515408.0,504686065949.0,1525509689.0,39547681.0,7394668.0,11163057.0
+Dự phòng phải trả ngắn hạn,Provision for ST liabilities,provision_for_st_liabilities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quỹ khen thưởng phúc lợi,Bonus and welfare funds,bonus_and_welfare_funds,218396.0,218396.0,218396.0,218396.0,218396.0,218396.0,218396.0,218396.0
+Nợ phải trả dài hạn,Long-term liabilities,long_term_liabilities,1325027401039.0,18402218897.0,14288336032.0,180170.0,1295311946.0,672575900.0,0.0,0.0
+Phải trả người bán dài hạn,Long-term trade payables,long_term_trade_payables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả nội bộ dài hạn,Long-term intercompany payables,long_term_intercompany_payables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả dài hạn khác,Other long-term payables,other_long_term_payables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vay và nợ thuê tài sản tài chính dài hạn,Long-term borrowings,long_term_borrowings,27044363826.0,18342547231.0,14227038282.0,0.0,0.0,0.0,0.0,0.0
+Thuế thu nhập hoãn lại phải trả,Deferred income tax liabilities,deferred_income_tax_liabilities,130243711.0,59671666.0,61297750.0,180170.0,1295311946.0,672575900.0,0.0,0.0
+Dự phòng trợ cấp thôi việc (Trước năm 2016),Provision for severance allowances (Before 2016),provision_for_severance_allowances_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dự phòng phải trả dài hạn,Provision for long-term liabilities,provision_for_long_term_liabilities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu chưa thực hiên dài hạn,Deferred revenue,deferred_revenue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quỹ phát triển khoa học công nghệ,Technology-science development fund,technology_science_development_fund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vốn chủ sở hữu,Owner's Equity,owners_equity,4302329810995.0,4029800184357.0,3305345408865.0,3136361147259.0,1058567726847.0,164087204238.0,161934559827.0,162046842718.0
+Vốn góp của chủ sở hữu,Paid-in capital,paid_in_capital,3426000000000.0,3300000000000.0,3000000000000.0,3000000000000.0,1000000000000.0,160000000000.0,160000000000.0,160000000000.0
+Thặng dư vốn cổ phần,Capital surplus,capital_surplus,446725725300.0,572725725300.0,41575300.0,41575300.0,10973300.0,0.0,0.0,0.0
+Vốn khác của chủ sở hữu,Owner's other capital,owners_other_capital,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cổ phiếu quỹ,Treasury shares,treasury_shares,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chênh lệch đánh giá lại tài sản theo giá trị hợp lý,Differences upon asset revaluation,differences_upon_asset_revaluation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chênh lệch tỷ giá hổi đoái,Foreign exchange differences,foreign_exchange_differences,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quỹ đầu tư và phát triển (Trước năm 2016),Investment and development funds (Before 2016),investment_and_development_funds_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quỹ dự phòng tài chính và rủi ro nghiệp vụ,Financial reserve funds,financial_reserve_funds,0.0,3234930256.0,3234930256.0,3234930256.0,3234930256.0,636000000.0,636000000.0,636000000.0
+Quỹ khác thuộc vốn chủ sỡ hữu,Other funds,other_funds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận chưa phân phối,Undistributed earnings,undistributed_earnings,427005155439.0,151240598545.0,299469973053.0,130485711447.0,52722893035.0,3451204238.0,1298559827.0,1410842718.0
+Nguồn kinh phí và quỹ khác,Budget sources and other funds,budget_sources_and_other_funds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Quỹ khen thưởng, phúc lợi (trước 2010)",Bonus and welfare funds (Before 2010),bonus_and_welfare_funds_before_2010,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vốn ngân sách nhà nước,Budget sources and other funds,budget_sources_and_other_funds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LỢI ÍCH CỦA CỔ ĐÔNG KHÔNG KIỂM SOÁT (trước 2015),MINORITY INTERESTS (before 2015),minority_interests_before_2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TỔNG CỘNG NGUỒN VỐN,TOTAL RESOURCES,total_resources,15139226704905.0,10637252118272.0,7446062695121.0,6409144848072.0,2315226187742.0,187309344131.0,176591976116.0,164730076013.0
+Cổ phiếu ưu đãi,Preferred shares,preferred_shares,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),Held-to-maturity investment,held_to_maturity_investment,4561750000000.0,2774750000000.0,2765500000000.0,1902876744103.0,882871000000.0,82433183562.0,85900000000.0,78500000000.0
+Phải thu về hoạt động giao dịch chứng khoán (Trước năm 2016),Receivable from trading stocks (Before 2016),receivable_from_trading_stocks_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vốn kinh doanh ở các đơn vị trực thuộc (Trước năm 2016),Paid-in capital in wholly-owned subsidiaries (Before 2016),paid_in_capital_in_wholly_owned_subsidiaries_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả hoạt động giao dịch chứng khoán,Payables to securities trading,payables_to_securities_trading,21777353213.0,7136073928.0,3032653338.0,1780835515.0,3042327396.0,585894466.0,228692226.0,157919457.0
+"Phải trả cổ tức, gốc và lãi trái phiếu (Trước năm 2016)","Dividend, principal and interest payables (Before 2016)",dividend_principal_and_interest_payables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả tổ chức phát hành chứng khoán (Trước năm 2016),Payables to securities issuers (Before 2016),payables_to_securities_issuers_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quỹ bảo vệ Nhà đầu tư,Provision for compensation of investors,provision_for_compensation_of_investors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản thiếu chờ xử lý (Trước năm 2016),Shortage of current assets waiting for solution (Before 2016),shortage_of_current_assets_waiting_for_solution_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu về cho vay ngắn hạn (Trước năm 2016),Short-term loans receivables (Before 2016),short_term_loans_receivables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Giao dịch mua bán lại trái phiếu chính phủ,Government bonds purchased for resale,government_bonds_purchased_for_resale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trả trước người bán dài hạn (Trước năm 2016),Long-term prepayments to suppliers (Before 2016),long_term_prepayments_to_suppliers_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu về cho vay dài hạn (Trước năm 2016),Long-term loans receivables (Before 2016),long_term_loans_receivables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản dở dang dài hạn,Long-term incomplete assets,long_term_incomplete_assets,0.0,512000000.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Chi phí sản xuất, kinh doanh dở dang dài hạn",Long-term cost of work in progress,long_term_cost_of_work_in_progress,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Thiết bị, vật tư, phụ tùng thay thế dài hạn","Long-term equipment, material and spare parts",long_term_equipment_material_and_spare_parts,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu chưa thực hiện ngắn hạn,Short-term unrealized revenue,short_term_unrealized_revenue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quỹ bình ổn giá (Trước năm 2016),Price stabilization fund (Before 2016),price_stabilization_fund_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Giao dịch mua bán lại trái phiếu Chính phủ,Government bonds purchased for resale,government_bonds_purchased_for_resale,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Người mua trả tiền trước dài hạn,Long-term advances from customers,long_term_advances_from_customers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí phải trả dài hạn,Long-term accrued expenses,long_term_accrued_expenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả nội bộ về vốn kinh doanh (Trước năm 2016),Intra-company payables for operating capital received (Before 2016),intra_company_payables_for_operating_capital_received_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trái phiếu chuyển đổi dài hạn - Cấu phần nợ,Convertible bonds,convertible_bonds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cổ phiếu ưu đãi (Trước năm 2016),Preferred shares (Before 2016),preferred_shares_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cổ phiếu phổ thông có quyền biểu quyết,Common shares,common_shares,3426000000000.0,3300000000000.0,3000000000000.0,3000000000000.0,1000000000000.0,160000000000.0,160000000000.0,160000000000.0
+Quyền chọn chuyển đổi trái phiếu - Cấu phần vốn,Conversion options on convertible bonds,conversion_options_on_convertible_bonds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LNST chưa phân phối lũy kế đến cuối kỳ trước,Beginning accumulated undistributed earnings,beginning_accumulated_undistributed_earnings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LNST chưa phân phối kỳ này,Current period undistributed earnings,current_period_undistributed_earnings,451899491875.0,185698569156.0,305663728982.0,208665324863.0,47541645254.0,3451204238.0,8692294087.0,8473600478.0
+Chi phí xây dựng cơ bản dở dang,Construction in progress,construction_in_progress,0.0,512000000.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi thế thương mại,Goodwill,goodwill,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi ích cổ đông không kiểm soát,Minority interests,minority_interests,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nguồn kinh phí đã hình thành TSCĐ,Funds used for fixed asset acquisitions,funds_used_for_fixed_asset_acquisitions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tiền chi nộp Quỹ Hỗ trợ thanh toán,Payments to Settlement Assistance Fund,payments_to_settlement_assistance_fund,18920576489.0,16576642324.0,13789036252.0,11098773094.0,8629056421.0,8203068942.0,7822972235.0,7129306944.0
+Tài sản tài chính ngắn hạn,Short term financial assets,short_term_financial_assets,13275582299859.0,8165535289615.0,6568700001482.0,5401669849551.0,2282120940903.0,170119745304.0,142448284645.0,128945373108.0
+Các khoản cho vay,Loans,loans,5832191123312.0,3881585476070.0,2483068630247.0,2280376720422.0,1192495353688.0,23096668609.0,31010604532.0,18736334679.0
+Các khoản tài chính sẵn sàng để bán (AFS),Available-for-sale financial assets (AFS),available_for_sale_financial_assets_afs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Các khoản phải thu (từ 2016),Receivables (from 2016),receivables_from_2016,310047816484.0,279408951492.0,550334911418.0,125962559300.0,27267304341.0,1209135283.0,6764569249.0,5278202945.0
+Phải thu bán các tài sản tài chính,Account receivables,account_receivables,9976453.0,543380024.0,345150124150.0,0.0,0.0,0.0,0.0,0.0
+"Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",Receivables and accrued dividend/interest of financial assets,receivables_and_accrued_dividend_interest_of_financial_assets,310037840031.0,278865571468.0,205184787268.0,125962559300.0,27267304341.0,1209135283.0,6764569249.0,5278202945.0
+"Phải thu cổ tức, tiền lãi đến ngày nhận",Due or overdue receivables on dividend/interest,due_or_overdue_receivables_on_dividend_interest,0.0,0.0,0.0,0.0,80000.0,0.0,0.0,0.0
+"Trong đó : phải thu khó đòi về cổ tức , tiền lãi đến ngày nhận nhưng chưa nhận được",Doubtful debts on dividend/interest which are overdue,doubtful_debts_on_dividend_interest_which_are_overdue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Dự thu cổ tức , tiền lãi chưa đến ngày nhận",Undue accrued dividend/interest,undue_accrued_dividend_interest,310037840031.0,278865571468.0,205184787268.0,125962559300.0,27267224341.0,1209135283.0,6764569249.0,5278202945.0
+Thuế giá trị gia tăng được khấu trừ (Trước năm 2016),Deductible value added tax (Before 2016),deductible_value_added_tax_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu các dịch vụ CTCK cung cấp,Receivables form services provided by the stock company,receivables_form_services_provided_by_the_stock_company,7415147069.0,1776882726.0,1114284104.0,999297697.0,1263733107.0,285063750.0,729075397.0,571894491.0
+Phải thu về lỗi giao dịch CK,Receivables arise from transaction error,receivables_arise_from_transaction_error,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dự phòng suy giảm giá trị các khoản phải thu,Provision for short term receivables,provision_for_short_term_receivables,-125552645.0,-87887482.0,-62776323.0,0.0,0.0,0.0,0.0,0.0
+Tạm ứng,Advance,advance,3285603265.0,1786932505.0,23635074373.0,26152801483.0,1245969599.0,230755929.0,23401000.0,25308000.0
+"Vật tư văn phòng, công cụ, dụng cụ",Tools and equipments,tools_and_equipments,69012000.0,0.0,0.0,0.0,0.0,0.0,259922283.0,0.0
+"Cầm cố, thế chấp, ký quý , ký cược ngắn hạn",Short term Collaterals,short_term_collaterals,238872800.0,110872800.0,27000000.0,27000000.0,27000000.0,20000000.0,0.0,10600000.0
+Dự phòng suy giảm giá trị TSNH khác,Provision for other current assets,provision_for_other_current_assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính dài hạn,Long term financial assets,long_term_financial_assets,1704736219137.0,2328606423400.0,729681708989.0,920608888524.0,0.0,0.0,25000000000.0,25000000000.0
+Đánh giá TSCĐHH theo giá trị hợp lý,Revaluation of tangible fixed assets using fair value model,revaluation_of_tangible_fixed_assets_using_fair_value_model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Đánh giá TSCĐTTC theo giá trị hợp lý,Revaluation of fixed assets in financial lease using fair value model,revaluation_of_fixed_assets_in_financial_lease_using_fair_value_model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Đánh giá TSCĐVH theo giá trị hợp lý,Revaluation of intangible fixed assets using fair value model,revaluation_of_intangible_fixed_assets_using_fair_value_model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Đánh giá BĐSĐT theo giá trị hợp lý,Revaluation of investment property using fair value model,revaluation_of_investment_property_using_fair_value_model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Cầm cố, thế chấp, kỹ quỹ, Ký cược dài hạn",Long term collaterals,long_term_collaterals,7786096041.0,4570199721.0,2926278681.0,1981640841.0,454369866.0,600438935.0,1540000.0,1540000.0
+Dự phòng suy giảm giá trị tài sản dài hạn,Provision for long term assets,provision_for_long_term_assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vay ngắn hạn,Short term borrowings,short_term_borrowings,9302172219387.0,6494297154123.0,3643056054047.0,2584842672289.0,1103860000000.0,19205000000.0,12920000000.0,0.0
+Nợ thuê tài sản tài chính ngắn hạn,Short term finance lease,short_term_finance_lease,19649010654.0,11632325712.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vay tài sản tài chính ngắn hạn,Short term financial assets borrowings,short_term_financial_assets_borrowings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trái phiếu chuyển đổi ngắn hạn - Cấu phần nợ,Short term convertible bonds,short_term_convertible_bonds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trái phiếu phát hành ngắn hạn,Short term bonds issued,short_term_bonds_issued,0.0,0.0,0.0,150000000000.0,120000000000.0,0.0,0.0,0.0
+Vay Quỹ Hỗ trợ thanh toán,Borrowings form payable assistance fund,borrowings_form_payable_assistance_fund,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả về lỗi giao dịch các tài sản tài chính,Payable arise from transaction errors,payable_arise_from_transaction_errors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Các khoản trích nộp phúc lợi nhân viên,Employees' welfare payable to authorities,employees_welfare_payable_to_authorities,1681083990.0,1053140363.0,526339935.0,263170429.0,178741372.0,113031372.0,98932976.0,73297383.0
+"Nhận ký quỹ, ký cược ngắn hạn",Short term collaterals received,short_term_collaterals_received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vay dài hạn,Long term borrowings,long_term_borrowings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nợ thuê tài chính dài hạn,Long term financial lease,long_term_financial_lease,27044363826.0,18342547231.0,14227038282.0,0.0,0.0,0.0,0.0,0.0
+Vay tài sản tài chính dài hạn,Long term financial assets borrowings,long_term_financial_assets_borrowings,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trái phiếu phát hành dài hạn,Long term bonds,long_term_bonds,1297852793502.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Nhận ký quỹ, ký cược dài hạn",Long term collaterals received,long_term_collaterals_received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vốn đầu tư của chủ sở hữu,Shareholders' equity,shareholders_equity,3872725725300.0,3872725725300.0,3000041575300.0,3000041575300.0,1000010973300.0,160000000000.0,160000000000.0,160000000000.0
+Quỹ dự trữ bổ sung vốn điều lệ,Charter reserve,charter_reserve,2598930256.0,2598930256.0,2598930256.0,2598930256.0,2598930256.0,0.0,0.0,0.0
+Lợi nhuận đã thực hiện,Realized gain,realized_gain,451899491875.0,185698569156.0,305663728982.0,208665324863.0,47541645254.0,3451204238.0,8692294087.0,8473600478.0
+Lợi nhuận chưa thực hiện,Unrealized gain,unrealized_gain,-24894336436.0,-34457970611.0,-6193755929.0,-78179613416.0,5181247781.0,0.0,-7393734260.0,-7062757760.0
+Tài sản cố định thuê ngoài,Leased fixed assets,leased_fixed_assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chứng chỉ có giá nhận giữ hộ,Valuable papers kept on behalf of other parties,valuable_papers_kept_on_behalf_of_other_parties,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản nhận thế chấp,Collaterals received,collaterals_received,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nợ khó đòi đã xử lý,Doubtful debts written-off,doubtful_debts_written_off,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ngoại tệ các loại,Foreign currencies,foreign_currencies,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cổ phiếu đang lưu hành (Số lượng),Outstanding Shares (Volume),outstanding_shares_volume,342600000.0,330000000.0,300000000.0,300000000.0,100000000.0,16000000.0,16000000.0,16000000.0
+Cổ phiếu quỹ (Số lượng),Treasury stocks (Volume),treasury_stocks_volume,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính niêm yết/đăng ký giao dịch tại VSD của CTCK,Financial assets of company listed on Stock Exchanges or registered at the VSD,financial_assets_of_company_listed_on_stock_exchanges_or_registered_at_the_vsd,2005950830000.0,285955300000.0,35758920000.0,100633310000.0,29871880000.0,10000000000.0,1608850000.0,1608850000.0
+Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch của CTCK,Financial assets deposited at VSD and not yet available for transaction,financial_assets_deposited_at_vsd_and_not_yet_available_for_transaction,0.0,1000000.0,180000.0,340000.0,50000.0,0.0,0.0,0.0
+Tài sản tài chính chờ về của CTCK,Financial assets with pending receipt (of the assets),financial_assets_with_pending_receipt_of_the_assets,1949200000.0,124900000.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính sửa lỗi giao dịch của CTCK,Financial assets for correcting transaction errors,financial_assets_for_correcting_transaction_errors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính chưa lưu ký tại VSD của CTCK,Financial assets which have not been registered at VSD of the Securities company,financial_assets_which_have_not_been_registered_at_vsd_of_the_securities_company,0.0,0.0,0.0,0.0,0.0,0.0,19540000000.0,19540000000.0
+Tài sản tài chính được hưởng quyền của CTCK,Financial assets with rights entitled of the Securities company,financial_assets_with_rights_entitled_of_the_securities_company,111470000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính niêm yết/đăng ký giao dịch tại VSD của NĐT,Financial assets listed/registered at VSD of the investor,financial_assets_listed_registered_at_vsd_of_the_investor,18471405767510.0,16734762040000.0,11700477370000.0,8568639410000.0,5622856040000.0,2544480350000.0,2007467520000.0,2357789910000.0
+Tài sản tài chính giao dịch tự do chuyển nhượng,Financial assets that can be freely traded,financial_assets_that_can_be_freely_traded,15996370207510.0,13607403860000.0,10832883870000.0,7919828610000.0,5388961590000.0,2437435370000.0,1898932140000.0,2277098250000.0
+Tài sản tài chính hạn chế chuyển nhượng,Financial assets of which trading is restricted,financial_assets_of_which_trading_is_restricted,533682280000.0,2491165540000.0,3149520000.0,29053520000.0,3210350000.0,3180350000.0,4986450000.0,3050350000.0
+Tài sản tài chính giao dịch cầm cố,Collateral financial assets,collateral_financial_assets,1145909690000.0,469837510000.0,699083870000.0,560862510000.0,160136380000.0,82100130000.0,82100130000.0,74959810000.0
+"Tài sản tài chính phong tỏa, tạm giữ",Financial assets frozen/on custody,financial_assets_frozen_on_custody,89686340000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính chờ thanh toán,Financial assets with pending payment,financial_assets_with_pending_payment,705757250000.0,166355130000.0,165360110000.0,58894770000.0,70547720000.0,21764500000.0,21448800000.0,2681500000.0
+Tài sản tài chính chờ cho vay,Financial assets waiting for lending,financial_assets_waiting_for_lending,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch của NĐT,"Financial assets deposited at VSD, not yet available for transaction",financial_assets_deposited_at_vsd_not_yet_available_for_transaction,292395490000.0,491384660000.0,1301366710000.0,125442940000.0,31292990000.0,35885050000.0,200120000.0,4313290000.0
+"Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, tự do chuyển nhượng","FA deposited at VSD, not yet available for transaction, freely traded",fa_deposited_at_vsd_not_yet_available_for_transaction_freely_traded,129979290000.0,33898400000.0,844296140000.0,1357920000.0,31292990000.0,35885050000.0,200120000.0,723600000.0
+"Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, hạn chế chuyển nhượng","FA deposited at VSD, not yet available for transaction, trading restricted",fa_deposited_at_vsd_not_yet_available_for_transaction_trading_restricted,162416200000.0,457486260000.0,457070570000.0,124085020000.0,0.0,0.0,0.0,3589690000.0
+"Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, cầm cố","Financial assets deposited at VSD, not yet available for transaction, collateral",financial_assets_deposited_at_vsd_not_yet_available_for_transaction_collateral,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Tài sản tài chính đã lưu ký tại VSD và chưa giao dịch, phong tỏa, tạm giữ","FA deposited at VSD, not yet available for transaction, frozen and on custody",fa_deposited_at_vsd_not_yet_available_for_transaction_frozen_and_on_custody,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính chờ về của NĐT,Financial assets with pending receipt (of the assets),financial_assets_with_pending_receipt_of_the_assets,436299670000.0,193294460000.0,193516650000.0,66044730000.0,99658510000.0,19066850000.0,49988100000.0,4586400000.0
+Tài sản tài chính sửa lỗi giao dịch của NĐT,Financial assets for correcting transaction errors,financial_assets_for_correcting_transaction_errors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính chưa lưu ký tại VSD của NĐT,Financial assets which have not been registered at VSD of investor,financial_assets_which_have_not_been_registered_at_vsd_of_investor,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tài sản tài chính được hưởng quyền của Nhà đầu tư,Enititled financial assets of investors,enititled_financial_assets_of_investors,282334370000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tiền gửi của khách hàng,Customers's deposits,customerss_deposits,3156682016387.0,1384800822128.0,877334497982.0,293724871095.0,444947269061.0,166722387928.0,72064290821.0,24790948385.0
+Tiền gửi của Nhà đầu tư về giao dịch chứng khoán,Customers's deposits for securities trading,customerss_deposits_for_securities_trading,2902960747485.0,1339684812577.0,790416771635.0,251035496978.0,434671888135.0,113728858808.0,18761265579.0,6911351632.0
+Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng,Investors' synthesizing deposits for securities trading activities,investors_synthesizing_deposits_for_securities_trading_activities,59401011.0,7102118.0,7066607.0,7022034.0,7262740.0,52967461038.0,52993366153.0,8460863109.0
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của NĐT,Cash blocked for trading settlements of investors,cash_blocked_for_trading_settlements_of_investors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của NĐT trong nước,Cash blocked for trading settlements of Domestic investors,cash_blocked_for_trading_settlements_of_domestic_investors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tiền gửi bù trừ và thanh toán giao dịch chứng khoán của NĐT nước ngoài,Cash blocked for trading settlements of Foreign investors,cash_blocked_for_trading_settlements_of_foreign_investors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TIỀN GỬI CỦA TỔ CHỨC PHÁT HÀNH,DEPOSITS OF ISSUERS,deposits_of_issuers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả NĐT - Tiền gửi của NĐT về tiền gửi giao dịch CK theo phương thức CTCK quản lý,Payables to investors - investors’ deposits for securities trading activities managed by the Company,payables_to_investors_investors_deposits_for_securities_trading_activities_managed_by_the_company,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Của Nhà đầu tư trong nước,Domestic investors,domestic_investors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Của Nhà đầu tư nước ngoài,Foreign investors,foreign_investors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả Tổ chức phát hành chứng khoán,Payable to securities issuers,payable_to_securities_issuers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải thu/phải trả của khách hàng về lỗi giao dịch các tài sản tài chính,Receivables from /Payables to customers for error of financial asset transaction,receivables_from_payables_to_customers_for_error_of_financial_asset_transaction,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phải trả vay CTCK,Payable for securities company,payable_for_securities_company,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Phải trả cổ tức, gốc và lãi trái phiếu","Dividend, bond principal and interest payables",dividend_bond_principal_and_interest_payables,0.0,0.0,145600.0,559000.0,274500.0,134800000.0,0.0,0.0

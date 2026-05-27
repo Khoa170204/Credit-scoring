@@ -1,0 +1,26 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+Doanh thu bán hàng và cung cấp dịch vụ,Sales,sales,45938567583.0,139245565620.0,389733662966.0,466135416350.0,305159744600.0,242993320551.0,464525943181.0,313155121573.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu thuần,Net sales,net_sales,45938567583.0,139245565620.0,389733662966.0,466135416350.0,305159744600.0,242993320551.0,464525943181.0,313155121573.0
+Giá vốn hàng bán,Cost of sales,cost_of_sales,-44620989873.0,-128066789265.0,-371174826516.0,-448084284225.0,-285337450465.0,-229413547444.0,-413547975752.0,-276958567461.0
+Lợi nhuận gộp,Gross Profit,gross_profit,1317577710.0,11178776355.0,18558836450.0,18051132125.0,19822294135.0,13579773107.0,50977967429.0,36196554112.0
+Doanh thu hoạt động tài chính,Financial income,financial_income,28375574410.0,2460060771.0,985550479.0,3869787826.0,170305570.0,849740911.0,1575792135.0,201078070.0
+Chi phí tài chính,Financial expenses,financial_expenses,-21446243663.0,-1701821840.0,-2596029838.0,-989805764.0,-830239959.0,0.0,0.0,0.0
+Chi phí lãi vay,Interest expenses,interest_expenses,-407097876.0,-1158586478.0,-1672715829.0,-989805764.0,-830239959.0,0.0,0.0,0.0
+Chi phí bán hàng,Selling expenses,selling_expenses,-566138408.0,-1073284114.0,-1036638283.0,-189072000.0,-497842510.0,-528602400.0,-3471086340.0,-792555360.0
+Chi phí quản lý doanh nghiệp,General and admin expenses,general_and_admin_expenses,-3907958521.0,-3445135100.0,-3719229344.0,-3594974959.0,-1899076904.0,-1461903492.0,-1490196376.0,-1191603309.0
+Lãi/(lỗ) từ hoạt động kinh doanh,Operating profit/(loss),operating_profit_loss,-1857194872.0,7394783985.0,13073416627.0,17200346840.0,17270300143.0,12497481779.0,47613431548.0,34420310102.0
+Thu nhập khác,Other incomes,other_incomes,9905976092.0,91753296.0,23924209.0,0.0,44490.0,2670.0,20000.0,1014646851.0
+Chi phí khác,Other expenses,other_expenses,-2403479882.0,-101370458.0,-137659886.0,-34222486.0,-174126002.0,-6677651.0,-1164172.0,-212211884.0
+"Thu nhập khác, ròng",Net other income/(expenses),net_other_income_expenses,7502496210.0,-9617162.0,-113735677.0,-34222486.0,-174081512.0,-6674981.0,-1144172.0,802434967.0
+Lãi/(lỗ) từ công ty liên doanh,Income from investments in other entities,income_from_investments_in_other_entities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) trước thuế,Net accounting profit/(loss) before tax,net_accounting_profit_loss_before_tax,5645301338.0,7385166823.0,12959680950.0,17166124354.0,17096218631.0,12490806798.0,47612287376.0,35222745069.0
+Thuế thu nhập doanh nghiệp - hiện thời,Business income tax - current,business_income_tax_current,-3086846534.0,-405257396.0,-830056461.0,-1437922554.0,-871250405.0,-485587133.0,-499530329.0,-95414125.0
+Thuế thu nhập doanh nghiệp - hoãn lại,Business income tax - deferred,business_income_tax_deferred,-2416748797.0,-3831565.0,-67205007.0,0.0,0.0,0.0,0.0,0.0
+Chi phí thuế thu nhập doanh nghiệp,Corporate income tax expenses,corporate_income_tax_expenses,-5503595331.0,-409088961.0,-897261468.0,-1437922554.0,-871250405.0,-485587133.0,-499530329.0,-95414125.0
+Lãi/(lỗ) thuần sau thuế,Net profit/(loss) after tax,net_profit_loss_after_tax,141706007.0,6976077862.0,12062419482.0,15728201800.0,16224968226.0,12005219665.0,47112757047.0,35127330944.0
+Lợi ích của cổ đông thiểu số,Minority interests,minority_interests,126094032.0,217997738.0,307644469.0,223245274.0,238436781.0,213783753.0,0.0,0.0
+Lợi nhuận của Cổ đông của Công ty mẹ,Attributable to parent company,attributable_to_parent_company,15611975.0,6758080124.0,11754775013.0,15504956526.0,15986531445.0,11791435912.0,47112757047.0,35127330944.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,0.0,175.0,332.0,460.0,752.0,659.0,2692.0,2007.0
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,0.0,0.0,332.0,460.0,752.0,0.0,0.0,0.0
+Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),Gain/(loss) from joint ventures (from 2015),gain_loss_from_joint_ventures_from_2015,-5630006400.0,-23812087.0,880927163.0,53279612.0,504859811.0,58473653.0,20954700.0,6836589.0

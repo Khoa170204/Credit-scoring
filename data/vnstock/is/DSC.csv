@@ -1,0 +1,80 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+DOANH THU HOẠT ĐỘNG,OPERATING SALES,operating_sales,695006936537.0,503109234914.0,438446884591.0,166859810372.0,55752235763.0,5776121465.0,7174139952.0,41144826538.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu thuần về hoạt động kinh doanh,Net sales,net_sales,695006936537.0,503109234914.0,438446884591.0,166859810372.0,55752235763.0,5776121465.0,7174139952.0,41144826538.0
+CHI PHÍ HOẠT ĐỘNG,OPERATING EXPENSE,operating_expense,-151210317947.0,-165487756658.0,-151347372642.0,-50683094124.0,-7915686573.0,-2656083160.0,-4022228449.0,-6385935855.0
+LỢI NHUẬN GỘP,GROSS PROFIT,gross_profit,543796618590.0,337621478256.0,287099511949.0,116176716248.0,47836549190.0,3120038305.0,3151911503.0,34758890683.0
+CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN,GENERAL AND ADMINISTRATIVE EXPENSES,general_and_administrative_expenses,-52657591766.0,-47495849385.0,-38401736621.0,-32110353874.0,-12027443071.0,-2935830586.0,-3765661538.0,-4703345710.0
+KẾT QUẢ HOẠT ĐỘNG,OPERATING PROFIT/(LOSS),operating_profit_loss,344719549333.0,220698430617.0,150165788504.0,42556974976.0,31180647279.0,572531190.0,-45925945.0,30756591945.0
+CHI PHÍ THUẾ THU NHẬP DOANH NGHIỆP,BUSINESS INCOME TAX EXPENSES,business_income_tax_expenses,344026748235.0,220685259006.0,150165735999.0,42395900047.0,31174011318.0,574288907.0,-45925945.0,30745866027.0
+Chi phí thuế thu nhập hiện hành,Business income tax - current,business_income_tax_current,-64057923792.0,-42648430165.0,-29116210988.0,-12308237940.0,-2962113852.0,-80386573.0,-69690767.0,-6273602768.0
+Chi phí thuế thu nhập hoãn lại,Business income tax - deferred,business_income_tax_deferred,-4773580164.0,-1216976525.0,-1132736699.0,3359571706.0,-3359571706.0,0.0,0.0,0.0
+LỢI NHUẬN KẾ TOÁN SAU THUẾ,NET PROFIT/(LOSS) AFTER TAX,net_profit_loss_after_tax,275195244279.0,176819852316.0,119916788312.0,33447233813.0,24852325760.0,493902334.0,-115616712.0,24472263259.0
+Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát,Business income tax - deferred,business_income_tax_deferred,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận sau thuế phân bổ cho chủ sở hữu,Attributable to parent company,attributable_to_parent_company,275195244279.0,176819852316.0,119916788312.0,33447233813.0,24852325760.0,493902334.0,-115616712.0,24472263259.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,1268.0,863.0,814.0,334.0,598.0,82.0,-19.0,4079.0
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,1268.0,863.0,814.0,334.0,598.0,82.0,-19.0,4079.0
+Doanh thu nghiệp vụ môi giới chứng khoán,Revenue in Brokerage services,revenue_in_brokerage_services,113782816122.0,103975163406.0,103914009439.0,25931006298.0,7073012943.0,3060753671.0,3654625475.0,7341345188.0
+"Doanh thu hoạt động đầu tư chứng khoán, góp vốn (Trước năm 2016)",Revenue in Securities investment and other investment activities (Before 2016),revenue_in_securities_investment_and_other_investment_activities_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu nghiệp vụ bảo lãnh phát hành chứng khoán,Revenue in Underwriting services,revenue_in_underwriting_services,0.0,0.0,0.0,100000000.0,0.0,0.0,0.0,0.0
+Doanh thu nghiệp vụ tư vấn đầu tư chứng khoán,Revenue in Stock Investment Advisory services,revenue_in_stock_investment_advisory_services,14113000000.0,2761000000.0,27640000000.0,0.0,0.0,1500000000.0,0.0,29351800000.0
+Doanh thu lưu ký chứng khoán,Revenue in Securities custody services,revenue_in_securities_custody_services,3706759920.0,3143235986.0,2223600150.0,796189240.0,223795231.0,256737771.0,276452781.0,342824552.0
+"Doanh thu hoạt động ủy thác, đấu giá (Trước năm 2016)",Revenue in Auction trust services (Before 2016),revenue_in_auction_trust_services_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thu cho thuê sử dụng tài sản (Trước năm 2016),Rental income from investment property (Before 2016),rental_income_from_investment_property_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu khác,Others revenue,others_revenue,22705429180.0,248466246.0,211624559.0,1960000.0,0.0,0.0,0.0,0.0
+"Lãi/lỗ từ công ty liên doanh, liên kết",Gain/(loss) from joint ventures,gain_loss_from_joint_ventures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi từ các tài sản tài chính ghi nhận thông qua lãi/lỗ ( FVTPL),Income from financial assets recognized through profit/loss (FVTPL),income_from_financial_assets_recognized_through_profit_loss_fvtpl,263177087823.0,179126840914.0,148026070092.0,45353775383.0,20591576023.0,0.0,0.0,0.0
+Lãi bán các tài sản tài chính FVTPL,Income from selling financial assets FVTPL,income_from_selling_financial_assets_fvtpl,99479395390.0,28532163322.0,16651149068.0,14344063725.0,1020396360.0,0.0,0.0,0.0
+Chênh lệch tăng đánh giá lại các TSTC thông qua lãi/lỗ,FVTPL revaluation gain,fvtpl_revaluation_gain,51512000104.0,53945648351.0,24924810201.0,11904905650.0,19153928240.0,0.0,0.0,0.0
+"Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL","Dividend, interest from FVTPL financial assets",dividend_interest_from_fvtpl_financial_assets,112185692329.0,96649029241.0,106450110823.0,19104806008.0,417251423.0,0.0,0.0,0.0
+Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn,Income from held to maturity investment (HTM),income_from_held_to_maturity_investment_htm,18716937392.0,9980263314.0,17906837205.0,46937293150.0,21487012058.0,629460612.0,2690479480.0,2705486889.0
+Lãi từ các khoản cho vay và phải thu,Income from loans and receivables,income_from_loans_and_receivables,253428970873.0,197292446866.0,135356561328.0,47639586301.0,6176772120.0,314524856.0,507050871.0,1403254409.0
+Lãi từ các tài sản tài chính sẵn sàng để bán,Income from available for sales assets (AFS),income_from_available_for_sales_assets_afs,0.0,0.0,0.0,0.0,67388.0,99100.0,76800.0,115500.0
+Lãi từ các công cụ phát sinh phòng ngừa rủi ro,Income from derivatives,income_from_derivatives,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu hoạt động tư vấn tài chính,Revenue in Financial Advisory services,revenue_in_financial_advisory_services,5375935227.0,6581818182.0,3168181818.0,100000000.0,200000000.0,14545455.0,45454545.0,0.0
+Lỗ các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),Loss from financial assets recognized through profit/loss (FVTPL),loss_from_financial_assets_recognized_through_profit_loss_fvtpl,-27723602797.0,-34782555522.0,-1380886079.0,-11770617037.0,-2796725900.0,0.0,0.0,0.0
+Lỗ bán các tài sản tài chính,Loss from selling financial assets FVTPL,loss_from_selling_financial_assets_fvtpl,-819660427.0,-4095684751.0,-658384189.0,-336918487.0,-2780528513.0,0.0,0.0,0.0
+Chênh lệch giảm đánh giá lại các TSTC thông qua lãi/lỗ,FVTPL financial assets revaluation loss,fvtpl_financial_assets_revaluation_loss,-25260624600.0,-29826863351.0,-615646090.0,-11427698550.0,-54500.0,0.0,0.0,0.0
+Chi phí giao dịch mua các tài sản tài chính FVTPL,FVTPL financial assets purchase transaction costs,fvtpl_financial_assets_purchase_transaction_costs,-1643317770.0,-860007420.0,-106855800.0,-6000000.0,-16142887.0,0.0,0.0,0.0
+Lỗ các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),Loss form held to maturity investment (HTM),loss_form_held_to_maturity_investment_htm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Chi phí lãi vay, lỗ từ các khoản cho vay và phải thu (Trước năm 2016)","Interest cost, loss from loans and receivables (Before 2016)",interest_cost_loss_from_loans_and_receivables_before_2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lỗ và ghi nhận chênh lệch đánh giá theo giá trị hợp lý tài sản tài chính sẵn sàng để bán (AFS) khi phân loại lại,Loss from available for sales assets (AFS),loss_from_available_for_sales_assets_afs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"CP dự phòng TSTC, xử lý tổn thất các khoản phải thu khó đòi là lỗ suy giảm TSTC và CP đi vay","Provision for losses from mortgage assets, uncollectible receivables, and loan expenses",provision_for_losses_from_mortgage_assets_uncollectible_receivables_and_loan_expenses,14764772.0,-34451136.0,-33065268171.0,-1149940080.0,2440559901.0,513798329.0,51446286.0,-45720999.0
+Lỗ từ các tài sản tài chính phái sinh phòng ngừa rủi ro,Loss from derivatives,loss_from_derivatives,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí hoạt động tự doanh,Proprietary trading services expenses,proprietary_trading_services_expenses,0.0,0.0,-870000.0,-33750993.0,-1348541.0,0.0,0.0,0.0
+Chi phí nghiệp vụ môi giới chứng khoán,Brokerage expenses,brokerage_expenses,-117488542050.0,-121230854531.0,-102963604584.0,-31621178471.0,-7098743777.0,-2370165496.0,-3838462769.0,-4933236401.0
+"Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán","Underwriting, securities issuance expenses",underwriting_securities_issuance_expenses,-400776884.0,-1076413500.0,-5679372537.0,-5439407542.0,0.0,0.0,0.0,0.0
+Chi phí nghiệp vụ tư vấn đầu tư chứng khoán,Expenses for securities advisory,expenses_for_securities_advisory,-1594500546.0,-3117307998.0,-5480482436.0,0.0,0.0,-622703389.0,0.0,-1060787681.0
+"Chí phí hoạt động đấu giá, ủy thác",Bidding agent service expenses,bidding_agent_service_expenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí nghiệp vụ lưu ký chứng khoán,Investors' securities depository expenses,investors_securities_depository_expenses,-3937660442.0,-3353921807.0,-2494874288.0,-668200001.0,-145172393.0,-177012604.0,235211966.0,-346190774.0
+Chi phí hoạt động tư vấn tài chính,Expenses for financial advisory activities,expenses_for_financial_advisory_activities,-80000000.0,-1892252164.0,-282014547.0,0.0,-314255863.0,0.0,0.0,0.0
+Chi phí các dịch vụ khác,Other expenses,other_expenses,0.0,0.0,0.0,0.0,0.0,0.0,-470423932.0,0.0
+"Chi phí sửa lỗi giao dịch chứng khoán, lỗi khác",Expenses arise from securities transaction errors and other errors,expenses_arise_from_securities_transaction_errors_and_other_errors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+DOANH THU HOẠT ĐỘNG TÀI CHÍNH,REVENUE FROM FINANCIAL ACTIVITIES,revenue_from_financial_activities,4030215473.0,2505555661.0,2314788934.0,644181539.0,390131655.0,394844019.0,573494775.0,701684671.0
+Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện,Realized and unrealized foreign exchange gain,realized_and_unrealized_foreign_exchange_gain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định phát sinh trong kỳ",Income from non fixed accrued dividend and interest,income_from_non_fixed_accrued_dividend_and_interest,4030215473.0,2505555661.0,2314788934.0,644181539.0,390131655.0,394844019.0,573494775.0,701684671.0
+"Lãi bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh","Gain from disposals or sales of investments in subsidiaries, associates and joint ventures",gain_from_disposals_or_sales_of_investments_in_subsidiaries_associates_and_joint_ventures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu khác về đầu tư,Other revenue from investments,other_revenue_from_investments,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHI PHÍ TÀI CHÍNH,EXPENSE FROM FINANCIAL ACTIVITIES,expense_from_financial_activities,-150449692964.0,-71932753915.0,-100846775758.0,-42153568937.0,-5018590495.0,-6520548.0,-5670685.0,-637699.0
+Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện,Realized and unrealized foreign exchange loss,realized_and_unrealized_foreign_exchange_loss,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí lãi vay,Interests expenses,interests_expenses,-150449692964.0,-71932753915.0,-100846775758.0,-42153568937.0,-5018590495.0,-6520548.0,-5670685.0,-637699.0
+"Lỗ bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh","Loss from disposals or sales of investments in subsidiaries, associates and joint ventures",loss_from_disposals_or_sales_of_investments_in_subsidiaries_associates_and_joint_ventures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí dự phòng suy giảm giá trị các khoản đầu tư tài chính dài hạn,Provision for losses on long term financial investment,provision_for_losses_on_long_term_financial_investment,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí đầu tư khác,Other investment expenses,other_investment_expenses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHI PHÍ BÁN HÀNG,SELLING COST,selling_cost,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận đã thực hiện,Realized profit,realized_profit,0.0,0.0,0.0,0.0,0.0,574288907.0,-45925945.0,30745866027.0
+Lợi nhuận chưa thực hiện,Unrealized profit,unrealized_profit,344026748235.0,220685259006.0,150165735999.0,42395900047.0,31174011318.0,0.0,0.0,0.0
+"LNST trích các Quỹ dự trữ điều lệ, Quỹ Dự phòng tài chính và rủi ro nghề nghiệp",Profit after tax deducted of Funds,profit_after_tax_deducted_of_funds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ đánh giá lại các các khoản đầu tư giữ đến ngày đáo hạn,Gain (loss) from revaluation of held to maturity investments,gain_loss_from_revaluation_of_held_to_maturity_investments,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ đánh giá lại các tài sản tài chính sẵn sàng để bán,Gain (loss) from revaluation of available for sales financial assets,gain_loss_from_revaluation_of_available_for_sales_financial_assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lãi/(lỗ) toàn diện khác được chia từ hoạt động đầu tư vào công ty con, đầu tư liên kết, liên doanh","Gain (loss) distributed from investments in subsidiaries, associates and joint ventures",gain_loss_distributed_from_investments_in_subsidiaries_associates_and_joint_ventures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ đánh giá lại các công cụ tài chính phái sinh,Gain (loss) from revaluation of derivatives,gain_loss_from_revaluation_of_derivatives,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài,Gain (loss) from foreign exchange difference of overseas operations,gain_loss_from_foreign_exchange_difference_of_overseas_operations,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lãi/(lỗ) từ các khoản đầu tư vào công ty con. Công ty liên kết, liên doanh chưa chia","Pre-distributed gain (loss) from investments in subsidiaries, associates and joint ventures",pre_distributed_gain_loss_from_investments_in_subsidiaries_associates_and_joint_ventures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) đánh giá công cụ phái sinh,Gain (loss) from revaluation of derivatives,gain_loss_from_revaluation_of_derivatives,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) đánh giá lại tài sản cố định theo mô hình giá trị hợp lý,Gain (loss) from revaluation of fixed assets using fair value model,gain_loss_from_revaluation_of_fixed_assets_using_fair_value_model,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tổng thu nhập toàn diện,Total comprehensive income,total_comprehensive_income,275195244279.0,176819852316.0,119916788312.0,33447233813.0,24852325760.0,493902334.0,-115616712.0,24472263259.0
+Thu nhập toàn diện phân bổ cho chủ sở hữu,Comprehensive income distributed to shareholders,comprehensive_income_distributed_to_shareholders,275195244279.0,176819852316.0,119916788312.0,33447233813.0,24852325760.0,493902334.0,-115616712.0,24472263259.0
+Thu nhập toàn diện phân bổ cho cổ đông không nắm quyền kiểm soát,Comprehensive income distributed to uncontrolled shareholders,comprehensive_income_distributed_to_uncontrolled_shareholders,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+THU NHẬP THUẦN TRÊN CỔ PHIẾU PHỔ THÔNG,NET INCOME TO COMMON SHARE,net_income_to_common_share,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+THU NHẬP (LỖ) TOÀN DIỆN KHÁC SAU THUẾ,OTHER COMPREHENSIVE INCOME (LOSS) AFTER TAX,other_comprehensive_income_loss_after_tax,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

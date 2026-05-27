@@ -1,0 +1,26 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+Doanh thu bán hàng và cung cấp dịch vụ,Sales,sales,381670010231.0,567481233266.0,439951065783.0,240298998787.0,377971840359.0,214695201486.0,235186442292.0,180630891660.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu thuần,Net sales,net_sales,381670010231.0,567481233266.0,439951065783.0,240298998787.0,377971840359.0,214695201486.0,235186442292.0,180630891660.0
+Giá vốn hàng bán,Cost of sales,cost_of_sales,-283103894264.0,-477554855593.0,-409576160480.0,-221945101880.0,-347547610132.0,-212009955863.0,-210849252310.0,-170167022079.0
+Lợi nhuận gộp,Gross Profit,gross_profit,98566115967.0,89926377673.0,30374905303.0,18353896907.0,30424230227.0,2685245623.0,24337189982.0,10463869581.0
+Doanh thu hoạt động tài chính,Financial income,financial_income,9259520363.0,2635151003.0,2162021917.0,6678633230.0,2445901773.0,11786508.0,4373041672.0,92154678.0
+Chi phí tài chính,Financial expenses,financial_expenses,-7215244873.0,-10372489741.0,-11454706926.0,-13420083046.0,-18447637921.0,-15296377606.0,-10334227857.0,-3656337683.0
+Chi phí lãi vay,Interest expenses,interest_expenses,-6921410333.0,-8562700166.0,-11418015654.0,-13420083046.0,-13716802101.0,-15296377606.0,-11932463677.0,-5401988558.0
+Chi phí bán hàng,Selling expenses,selling_expenses,-2757389812.0,-3056796798.0,-2789541716.0,-926738298.0,-457782000.0,0.0,0.0,0.0
+Chi phí quản lý doanh nghiệp,General and admin expenses,general_and_admin_expenses,-15098793000.0,-16357674035.0,-13995577833.0,-12602671554.0,-12513588239.0,-11588212440.0,-13783974318.0,-15627421010.0
+Lãi/(lỗ) từ hoạt động kinh doanh,Operating profit/(loss),operating_profit_loss,82754208645.0,62774568102.0,4297100745.0,-1916962761.0,1451123840.0,-24187557915.0,4592029479.0,-8727734434.0
+Thu nhập khác,Other incomes,other_incomes,5340792454.0,4988053296.0,5332056003.0,7672491822.0,4708783296.0,4678343679.0,14795926528.0,6331491068.0
+Chi phí khác,Other expenses,other_expenses,-3089638732.0,-2695572377.0,-3575309896.0,-2787101023.0,-1630770120.0,-3521278457.0,-2655394820.0,-2400978185.0
+"Thu nhập khác, ròng",Net other income/(expenses),net_other_income_expenses,2251153722.0,2292480919.0,1756746107.0,4885390799.0,3078013176.0,1157065222.0,12140531708.0,3930512883.0
+Lãi/(lỗ) từ công ty liên doanh,Income from investments in other entities,income_from_investments_in_other_entities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) trước thuế,Net accounting profit/(loss) before tax,net_accounting_profit_loss_before_tax,85005362367.0,65067049021.0,6053846852.0,2968428038.0,4529137016.0,-23030492693.0,16732561187.0,-4797221551.0
+Thuế thu nhập doanh nghiệp - hiện thời,Business income tax - current,business_income_tax_current,-21225891330.0,-13198047169.0,-924757913.0,0.0,0.0,0.0,-3959371199.0,-4198970940.0
+Thuế thu nhập doanh nghiệp - hoãn lại,Business income tax - deferred,business_income_tax_deferred,3993023598.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí thuế thu nhập doanh nghiệp,Corporate income tax expenses,corporate_income_tax_expenses,-17232867732.0,-13198047169.0,-924757913.0,0.0,0.0,0.0,-3959371199.0,-4198970940.0
+Lãi/(lỗ) thuần sau thuế,Net profit/(loss) after tax,net_profit_loss_after_tax,67772494635.0,51869001852.0,5129088939.0,2968428038.0,4529137016.0,-23030492693.0,12773189988.0,-8996192491.0
+Lợi ích của cổ đông thiểu số,Minority interests,minority_interests,453095192.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận của Cổ đông của Công ty mẹ,Attributable to parent company,attributable_to_parent_company,67319399443.0,51869001852.0,5129088939.0,2968428038.0,4529137016.0,-23030492693.0,12773189988.0,-8996192491.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,4454.0,4419.0,437.0,253.0,386.0,1962.09,1088.22,-766.43
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),Gain/(loss) from joint ventures (from 2015),gain_loss_from_joint_ventures_from_2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

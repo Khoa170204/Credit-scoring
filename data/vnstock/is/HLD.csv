@@ -1,0 +1,26 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+Doanh thu bán hàng và cung cấp dịch vụ,Sales,sales,277023902805.0,28958565964.0,13536488470.0,35449570471.0,80924793286.0,182028290179.0,420134799330.0,438742757908.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Doanh thu thuần,Net sales,net_sales,277023902805.0,28958565964.0,13536488470.0,35449570471.0,80924793286.0,182028290179.0,420134799330.0,438742757908.0
+Giá vốn hàng bán,Cost of sales,cost_of_sales,-184299053603.0,-22718721320.0,-7630664331.0,-15157071345.0,-6754848563.0,-42998862458.0,-298877148807.0,-312599045064.0
+Lợi nhuận gộp,Gross Profit,gross_profit,92724849202.0,6239844644.0,5905824139.0,20292499126.0,74169944723.0,139029427721.0,121257650523.0,126143712844.0
+Doanh thu hoạt động tài chính,Financial income,financial_income,876718666.0,743540279.0,3042899289.0,4082271527.0,8455895330.0,12352788452.0,16615890737.0,12476463479.0
+Chi phí tài chính,Financial expenses,financial_expenses,-16108597817.0,-2038466919.0,-3092602515.0,-3785813126.0,-5436453893.0,-24285035793.0,-5805732984.0,-7762212908.0
+Chi phí lãi vay,Interest expenses,interest_expenses,-16108597817.0,-2038466919.0,-3092602515.0,-3785813126.0,-5436453893.0,-24285035793.0,-5805732984.0,-7762212908.0
+Chi phí bán hàng,Selling expenses,selling_expenses,-4190918112.0,557572342.0,197636437.0,-8397557466.0,-16304706069.0,-7122421334.0,-7257206174.0,-10011662261.0
+Chi phí quản lý doanh nghiệp,General and admin expenses,general_and_admin_expenses,-37068210607.0,-1006729233.0,-3109534634.0,-3736310072.0,-38600062690.0,-33859783549.0,-31398047647.0,-29096770079.0
+Lãi/(lỗ) từ hoạt động kinh doanh,Operating profit/(loss),operating_profit_loss,36233841332.0,4495761113.0,2944222716.0,8455089989.0,22284617401.0,86114975497.0,93412554455.0,91749531075.0
+Thu nhập khác,Other incomes,other_incomes,88989612.0,29664605.0,1031289552.0,796430044.0,2532941.0,156603489.0,483113085.0,6445995.0
+Chi phí khác,Other expenses,other_expenses,-9981200662.0,-5097684.0,-18157026.0,-2749522382.0,0.0,-850806.0,-312775014.0,-710410.0
+"Thu nhập khác, ròng",Net other income/(expenses),net_other_income_expenses,-9892211050.0,24566921.0,1013132526.0,-1953092338.0,2532941.0,155752683.0,170338071.0,5735585.0
+Lãi/(lỗ) từ công ty liên doanh,Income from investments in other entities,income_from_investments_in_other_entities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) trước thuế,Net accounting profit/(loss) before tax,net_accounting_profit_loss_before_tax,26341630282.0,4520328034.0,3957355242.0,6501997651.0,22287150342.0,86270728180.0,93582892526.0,91755266660.0
+Thuế thu nhập doanh nghiệp - hiện thời,Business income tax - current,business_income_tax_current,-7371322100.0,-700443101.0,-656260418.0,-1623045766.0,-7065830650.0,-12008443042.0,-17718088377.0,-18351053332.0
+Thuế thu nhập doanh nghiệp - hoãn lại,Business income tax - deferred,business_income_tax_deferred,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí thuế thu nhập doanh nghiệp,Corporate income tax expenses,corporate_income_tax_expenses,-7371322100.0,-700443101.0,-656260418.0,-1623045766.0,-7065830650.0,-12008443042.0,-17718088377.0,-18351053332.0
+Lãi/(lỗ) thuần sau thuế,Net profit/(loss) after tax,net_profit_loss_after_tax,18970308182.0,3819884933.0,3301094824.0,4878951885.0,15221319692.0,74262285138.0,75864804149.0,73404213328.0
+Lợi ích của cổ đông thiểu số,Minority interests,minority_interests,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận của Cổ đông của Công ty mẹ,Attributable to parent company,attributable_to_parent_company,18970308182.0,3819884933.0,3301094824.0,4878951885.0,15221319692.0,74262285138.0,75864804149.0,73404213328.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,421.0,121.0,165.0,244.0,557.0,3713.0,3793.0,3670.0
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),Gain/(loss) from joint ventures (from 2015),gain_loss_from_joint_ventures_from_2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,26 @@
+﻿item,item_en,item_id,2025,2024,2023,2022,2021,2020,2019,2018
+Doanh thu bán hàng và cung cấp dịch vụ,Sales,sales,267402963954.0,268905178795.0,227638128651.0,263796551448.0,264024739528.0,249367794420.0,282010773959.0,315939459417.0
+Các khoản giảm trừ doanh thu,Sales deductions,sales_deductions,0.0,-13771105.0,-17897410.0,-158150820.0,-16404645.0,-42025696.0,-28702103.0,-12694395.0
+Doanh thu thuần,Net sales,net_sales,267402963954.0,268891407690.0,227620231241.0,263638400628.0,264008334883.0,249325768724.0,281982071856.0,315926765022.0
+Giá vốn hàng bán,Cost of sales,cost_of_sales,-237846985781.0,-244369939617.0,-204873370105.0,-239742452443.0,-237837157480.0,-214128592457.0,-248891999763.0,-284149175453.0
+Lợi nhuận gộp,Gross Profit,gross_profit,29555978173.0,24521468073.0,22746861136.0,23895948185.0,26171177403.0,35197176267.0,33090072093.0,31777589569.0
+Doanh thu hoạt động tài chính,Financial income,financial_income,3225746.0,2650531.0,4929078.0,5606207.0,131796430.0,9346466.0,7251795.0,1025083455.0
+Chi phí tài chính,Financial expenses,financial_expenses,-1104318580.0,-1597570897.0,-2253427417.0,-2802246297.0,-618732868.0,-3714757344.0,-5706191676.0,-4598923313.0
+Chi phí lãi vay,Interest expenses,interest_expenses,-1347392769.0,-1391650897.0,-2309587417.0,-1975702624.0,-1862384908.0,-3750504044.0,-5724505476.0,-4460260123.0
+Chi phí bán hàng,Selling expenses,selling_expenses,-7692554085.0,-7101299939.0,-5885867292.0,-6724919954.0,-6822860610.0,-6024114294.0,-6773571076.0,-5427361055.0
+Chi phí quản lý doanh nghiệp,General and admin expenses,general_and_admin_expenses,-18932365753.0,-14421393770.0,-13261705772.0,-12842323336.0,-14425312080.0,-18334806580.0,-14645195712.0,-15705803523.0
+Lãi/(lỗ) từ hoạt động kinh doanh,Operating profit/(loss),operating_profit_loss,1829965501.0,1403853998.0,1350789733.0,1532064805.0,4436068275.0,7132844515.0,5972365424.0,7070585133.0
+Thu nhập khác,Other incomes,other_incomes,104845210.0,107650974.0,374661923.0,132962609.0,189664621.0,198384809.0,744143382.0,201439093.0
+Chi phí khác,Other expenses,other_expenses,-22801138.0,-2032408.0,-36507680.0,-107859548.0,0.0,-119600877.0,-106097753.0,-99199922.0
+"Thu nhập khác, ròng",Net other income/(expenses),net_other_income_expenses,82044072.0,105618566.0,338154243.0,25103061.0,189664621.0,78783932.0,638045629.0,102239171.0
+Lãi/(lỗ) từ công ty liên doanh,Income from investments in other entities,income_from_investments_in_other_entities,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) trước thuế,Net accounting profit/(loss) before tax,net_accounting_profit_loss_before_tax,1912009573.0,1509472564.0,1688943976.0,1557167866.0,4625732896.0,7211628447.0,6610411053.0,7172824304.0
+Thuế thu nhập doanh nghiệp - hiện thời,Business income tax - current,business_income_tax_current,-464677846.0,-412425242.0,-561431511.0,-466974560.0,-869735563.0,-1890079252.0,-1372910872.0,-1487719714.0
+Thuế thu nhập doanh nghiệp - hoãn lại,Business income tax - deferred,business_income_tax_deferred,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chi phí thuế thu nhập doanh nghiệp,Corporate income tax expenses,corporate_income_tax_expenses,-464677846.0,-412425242.0,-561431511.0,-466974560.0,-869735563.0,-1890079252.0,-1372910872.0,-1487719714.0
+Lãi/(lỗ) thuần sau thuế,Net profit/(loss) after tax,net_profit_loss_after_tax,1447331727.0,1097047322.0,1127512465.0,1090193306.0,3755997333.0,5321549195.0,5237500181.0,5685104590.0
+Lợi ích của cổ đông thiểu số,Minority interests,minority_interests,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lợi nhuận của Cổ đông của Công ty mẹ,Attributable to parent company,attributable_to_parent_company,1447331727.0,1097047322.0,1127512465.0,1090193306.0,3755997333.0,5321549195.0,5237500181.0,5685104590.0
+Lãi cơ bản trên cổ phiếu (VND),EPS basic (VND),eps_basic_vnd,381.0,0.0,297.0,287.0,988.0,1216.0,1378.0,1496.0
+Lãi trên cổ phiếu pha loãng (VND),EPS diluted (VND),eps_diluted_vnd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lãi/(lỗ) từ công ty liên doanh (từ năm 2015),Gain/(loss) from joint ventures (from 2015),gain_loss_from_joint_ventures_from_2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
