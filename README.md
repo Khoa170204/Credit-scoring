@@ -119,5 +119,3 @@ Top SHAP features (XGBoost): `ev_to_ebit`, `eps_diluted`, `price_to_cfo`, `curre
 
 - Chỉ áp dụng được cho công ty niêm yết (có giá cổ phiếu và báo cáo tài chính công khai), không dùng được cho SME
 - Label gán bằng rule-based nên có thể không chính xác 100% với một số công ty đặc thù
-- High Risk distress rate 48% chưa đủ để tự động từ chối, cần review thêm
-- Model chưa được validate trên data ngoài giai đoạn 2018–2024
